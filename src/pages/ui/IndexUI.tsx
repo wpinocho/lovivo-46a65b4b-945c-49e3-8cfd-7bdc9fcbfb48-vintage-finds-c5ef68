@@ -38,8 +38,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
               </div>
               
               <h1 className="text-5xl md:text-6xl font-bold text-vintage-dark leading-tight">
-                Buy & Sell
-                <span className="block vintage-text-gradient">Vintage Finds</span>
+                Buy vintage
               </h1>
               
               <p className="text-lg text-gray-600 max-w-xl">
