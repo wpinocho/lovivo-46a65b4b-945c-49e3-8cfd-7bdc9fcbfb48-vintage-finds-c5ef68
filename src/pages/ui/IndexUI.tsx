@@ -134,7 +134,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold text-vintage-dark mb-4">
-                Curated Collections
+                Real collections
               </h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                 Handpicked vintage pieces organized by style, era, and vibe
